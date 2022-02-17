@@ -93,6 +93,6 @@ function savingMoney() {
     document.getElementById("savings-amount").innerText =
       "You don't have enough money to save";
     document.getElementById("remaining-balance").innerText =
-      "You have no money";
+      "You dont have remaining money";
   }
 }
